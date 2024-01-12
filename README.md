@@ -1,6 +1,4 @@
 # Jamboree-Education
-Implemented Exploratory Data Analysis (EDA) To Check The Shape Of The Data, Detecting The Missing Values Present In The Data.
-Implemented Feature Engineering To Extract The Features From The Dataset And Then Categorize ,Train And Test Those Features.
-Checked The Distrubution Of The Data Among Various Categories Using Univariate And Bivariate Plots.
-Implemented & Build Linear Regression Model To Predict Applicant Chances (%) Of Admission In A Given University.
-Implemented Various Classification Metrics To Check Factors That Are Important In Graduate Admissions And How These Factors Are Interrelated Among Themselves.
+Jamboree has helped thousands of students like you make it to top colleges abroad. Be it GMAT, GRE or SAT, their unique problem-solving methods ensure maximum scores with minimum effort.
+They recently launched a feature where students/learners can come to their website and check their probability of getting into the IVY league college. This feature estimates the chances of graduate admission from an Indian perspective.
+Implemented ML Model That helped Jamboree in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. It will also help predict one's chances of admission given the rest of the variables.
